@@ -43,6 +43,7 @@ margin-left: 80px;
     position: fixed;
 }
 
+
 .mensaje:focus{
    outline: name;
 }
